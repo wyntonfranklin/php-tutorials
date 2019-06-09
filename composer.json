@@ -1,0 +1,16 @@
+{
+    "name": "shady/php-tutorials",
+    "description": "php tutorials",
+    "authors": [
+        {
+            "name": "Wynton Franklin",
+            "email": "wynton.franklin@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
